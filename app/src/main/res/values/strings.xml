@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Inspector Digital</string>
+    <string name="title_activity_result">resultado</string>
+    <string name="title_activity_result_ok">SIN NOVEDADES</string>
+    <string name="title_activity_result_fail_no_data">SIN DATOS</string>
+    <string name="title_activity_result_fail_rentas">MOROSO EN RENTAS</string>
+    <string name="title_activity_result_fail_multas">MULTAS PENDIENTES</string>
+    <string name="car_lbl">VEHICULO</string>
+    <string name="owner_lbl">PROPIETARIO</string>
+
+
+    <string name="car_data_default">SIN DATOS</string>
+    <string name="owner_data_default">SIN DATOS</string>
+
+    <string name="car_data_XX056MJ">
+        "PATENTE: XX056MJ\n\n"
+        "MARCA: HONDA\n\n"
+        "MODELO: CIVIC\n\n"
+        "AÑO: 2016\n\n"
+        "CHASIS NO.: DFBSDFRT4WERR3R5GH435W4545\n\n"
+        "MOTOR NO.: DSW454646U3675W4R5TH56J45H46\n\n"
+        ""
+    </string>
+    <string name="owner_data_XX056MJ">
+        "APELLIDOS: PEREZ\n\n"
+        "NOMBRES: PABLO\n\n"
+        "TIPO DE DOCUMENTO: DNI\n\n"
+        "NUMERO DE DOCUMENTO: 20123456\n\n"
+        "CALLE: 25 DE MAYO\n\n"
+        "NUMERO: 5040\n\n"
+        "CIUDAD: CORDOBA\n\n"
+        "PROVINCIA: CORDOBA\n\n"
+    </string>
+
+    <string name="car_data_XX000YB">
+        "PATENTE: XX000YB\n\n"
+        "MARCA: CHEVROLET\n\n"
+        "MODELO: AGILE\n\n"
+        "AÑO: 2016\n\n"
+        "CHASIS NO.: DSFBER5THW45HERTHWE45JW4THRWTJ4\n\n"
+        "MOTOR NO.: SRTNHE567E57568456FGHSDFRSHS\n\n"
+        ""
+    </string>
+    <string name="owner_data_XX000YB">
+        "APELLIDOS: MARMOL\n\n"
+        "NOMBRES: PEDRO JAVIER\n\n"
+        "TIPO DE DOCUMENTO: DNI\n\n"
+        "NUMERO DE DOCUMENTO: 15789123\n\n"
+        "CALLE: INDEPENDENCIA\n\n"
+        "NUMERO: 115\n\n"
+        "CIUDAD: CORDOBA\n\n"
+        "PROVINCIA: CORDOBA\n\n"
+    </string>
+
+    <string name="car_data_XX015GA">
+        "PATENTE: XX015GA\n\n"
+        "MARCA: PORSCHE\n\n"
+        "MODELO: 911\n\n"
+        "AÑO: 2017\n\n"
+        "CHASIS NO.: DRFGW4E5W45RGH67U5THW46J533W546\n\n"
+        "MOTOR NO.: 76IE564873565H6W435W4646\n\n"
+        ""
+    </string>
+    <string name="owner_data_XX015GA">
+        "APELLIDOS: PAREDES\n\n"
+        "NOMBRES: LEONARDO\n\n"
+        "TIPO DE DOCUMENTO: DNI\n\n"
+        "NUMERO DE DOCUMENTO: 13987654\n\n"
+        "CALLE: RAFAEL NUÑEZ\n\n"
+        "NUMERO: 3000\n\n"
+        "CIUDAD: CORDOBA\n\n"
+        "PROVINCIA: CORDOBA\n\n"
+    </string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="title_activity_fine">MULTAS PENDIENTES</string>
+
+    <string name="title_activity_tax">IMPUESTOS PENDIENTES</string>
+</resources>
